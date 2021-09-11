@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Akram Ebrahim
-- I’m From Alexandria, Egypt
+- 🌱 I’m From Alexandria, Egypt
 - 👀 I’m interested in AI Specially Machine Learning , Deep Learning and Desktop applications
-- 🌱 I’m currently learning machine learning and deep learning
 - 📫 For Communication : 
 
 
